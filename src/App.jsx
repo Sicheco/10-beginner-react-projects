@@ -1,10 +1,10 @@
 import React from 'react'
-import Meals from './components/Meals/Meals'
+import Calculator from './components/Calculator/Calculator'
 
 function App() {
   return (
     <div>
-      <Meals />
+      <Calculator />
     </div>
   )
 }
