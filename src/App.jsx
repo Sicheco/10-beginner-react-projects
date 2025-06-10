@@ -1,12 +1,10 @@
 import React from 'react'
-import Counter from './components/Counter/Counter'
-import Todo from './components/Todo/Todo'
+import Meals from './components/Meals/Meals'
 
 function App() {
   return (
     <div>
-      {/* <Counter /> */}
-      <Todo />
+      <Meals />
     </div>
   )
 }
