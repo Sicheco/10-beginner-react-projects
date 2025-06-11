@@ -1,10 +1,10 @@
 import React from 'react'
-import Testimonials from './components/Testimonials/Testimonials'
+import Accordions from './components/Accordions/Accordions'
 
 function App() {
   return (
     <div>
-      <Testimonials />
+      <Accordions />
     </div>
   )
 }
