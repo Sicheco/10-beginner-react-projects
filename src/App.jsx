@@ -1,10 +1,10 @@
 import React from 'react'
-import ToggleBackground from './components/ToggleBackground/ToggleBackground'
+import HiddenSearchBar from './components/HiddenSearchBar/HiddenSearchBar'
 
 function App() {
   return (
     <div>
-      <ToggleBackground />
+      <HiddenSearchBar />
     </div>
   )
 }
